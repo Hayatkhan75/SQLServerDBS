@@ -9,3 +9,5 @@ Please provide Vendor DBS needs to be add in DWH project
 It is also required to update SSIS for ETL purpose
 
 Ovais is on leave, data updates required
+
+Shoub asked for full control on it
